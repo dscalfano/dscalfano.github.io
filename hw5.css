@@ -1,0 +1,14 @@
+﻿body {background color: green;}
+
+#title{
+	font-family: Ariel Narrow;
+	font-style: bold;
+	font-size: 48px;
+	color: white;
+}
+
+#myTextField{
+	border-radius: 8px;
+	width: 600px;
+}
+
